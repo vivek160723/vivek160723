@@ -2,7 +2,7 @@
 <h3 align="center">A BCA graduate currently pursuing my Masters in Computer Science — Exploring the limitless world of 0s and 1s 🚀</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnrVd6kmTggKF9e/giphy.gif" alt="Code Animation" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400"/>
 </div>
 
 ---
