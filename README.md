@@ -2,8 +2,9 @@
 <h3 align="center">A BCA graduate currently pursuing my Masters in Computer Science — Exploring the limitless world of 0s and 1s 🚀</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWx6anYzejI2bWMwMG9xMWd6azlybXNncTh4ZHRranZlMXU2dm5ydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="400"/>
 </div>
+
 
 ---
 
